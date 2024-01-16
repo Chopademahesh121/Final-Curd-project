@@ -1,0 +1,27 @@
+{
+  "employee": [
+    {
+      "roll": "1123",
+      "name": "pqrst",
+      "gender": "male",
+      "email": "abc@gmail.com",
+      "state": "UP",
+      "city": "Ahamdabad",
+      "zip": "444",
+      "addr": "Shankar Nagar, Amaravati",
+      "id": 1
+    },
+    {
+      "roll": "102",
+      "name": "Pranit Mule",
+      "gender": "male",
+      "email": "pranit111@gmail.com",
+      "state": "MadhyaPradesh",
+      "city": "some",
+      "zip": "444605",
+      "addr": "Shikshak Colony,Daryapur,near Marathi school",
+      "marks": "96",
+      "id": 2
+    }
+  ]
+}
